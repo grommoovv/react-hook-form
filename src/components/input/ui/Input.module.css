@@ -1,0 +1,13 @@
+.label {
+  position: relative;
+}
+
+.input {
+  width: 468px;
+  height: 40px;
+  padding: 0 16px;
+}
+
+.input:focus {
+  border: 1px solid #fff;
+}
